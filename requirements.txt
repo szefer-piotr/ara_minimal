@@ -1,0 +1,4 @@
+python-dotenv
+openai
+pandas
+streamlit > 1.43
