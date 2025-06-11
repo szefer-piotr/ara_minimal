@@ -75,10 +75,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 > Upload your data and start chatting like this:
 
-```
-User: Can you summarize this dataset?
-Assistant: Sure! Here's an overview: ...
-```
+[![Watch the video](https://www.loom.com/share/33e74719ddcb4deaa49c359d14471541?sid=f2fb980c-9662-4db9-a700-7e0524bd416b)
 
 If the assistant generates charts or images, they’ll appear directly in the chat.
 
