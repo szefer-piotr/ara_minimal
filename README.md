@@ -53,7 +53,7 @@ OPENAI_API_KEY=your-openai-api-key
 Run the app with Streamlit:
 
 ```bash
-streamlit run streamlit_chat_app.py
+streamlit run app.py
 ```
 
 Then open [http://localhost:8501](http://localhost:8501) in your browser.
