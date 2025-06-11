@@ -6,18 +6,18 @@ This Streamlit app lets you upload a CSV file and have a conversation with a pow
 
 ---
 
-## ✨ Features
+## Features
 
-- 📁 Upload CSV data as context for the assistant
-- 🧠 Ask questions, explore trends, and run analysis with LLM guidance
-- 🧮 Uses OpenAI’s code interpreter for live computation and visualization
-- 🌐 Optional web search tool included
-- 🖼️ Automatically displays assistant-generated charts and images
-- 💬 Full chat history with Markdown + code support
+- Upload CSV data as context for the assistant
+- Ask questions, explore trends, and run analysis with LLM guidance
+- Uses OpenAI’s code interpreter for live computation and visualization
+- Optional web search tool included
+- Automatically displays assistant-generated charts and images
+- Full chat history with Markdown + code support
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ### 1. Clone the repo
 
@@ -48,7 +48,7 @@ OPENAI_API_KEY=your-openai-api-key
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the app with Streamlit:
 
@@ -60,7 +60,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── app.py     # Main app script
@@ -71,7 +71,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📸 Preview
+## Preview
 
 > Upload your data and start chatting like this:
 
@@ -84,7 +84,7 @@ If the assistant generates charts or images, they’ll appear directly in the ch
 
 ---
 
-## 🌍 Deploy
+## Deploy
 
 You can deploy this app publicly on:
 
@@ -94,20 +94,20 @@ You can deploy this app publicly on:
 
 ---
 
-## 🔐 Security Notes
+## Security Notes
 
 * Your OpenAI API key is stored locally in a `.env` file and never exposed to users.
 * Uploaded files are stored temporarily in OpenAI's secure containers and only used during the session.
 
 ---
 
-## 📜 License
+## License
 
 MIT License — free to use, modify, and share.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Built with [Streamlit](https://streamlit.io/) and [OpenAI API](https://platform.openai.com/).
 
@@ -115,6 +115,6 @@ Inspired by the growing demand for easy, intelligent interfaces to explore data.
 
 ---
 
-## 📫 Feedback
+## Feedback
 
 Got ideas or issues? [Open an issue](https://github.com/your-username/your-repo-name/issues) or start a discussion!
