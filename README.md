@@ -1,4 +1,4 @@
-# 💬 Chat with Your Data — Powered by OpenAI + Streamlit
+# AI Research Assistant (ARA) — Powered by OpenAI + Streamlit
 
 Interact with your data using natural language!
 
@@ -63,7 +63,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 ## 📂 Project Structure
 
 ```
-├── streamlit_chat_app.py     # Main app script
+├── app.py     # Main app script
 ├── instructions.py           # Custom prompt templates (optional)
 ├── requirements.txt          # List of Python dependencies
 ├── .env                      # Environment config with your API key
